@@ -84,9 +84,20 @@ int main(void)
 
 ##  Output :
 ### Before Stimulation:
+<img width="637" alt="off" src="https://user-images.githubusercontent.com/93427089/201482259-8617f6b0-77f6-417d-a951-0dca0065da0b.png">
+
+
 ### After Stimulation - Digit:
+<img width="637" alt="on no" src="https://user-images.githubusercontent.com/93427089/201482269-0e2955a6-eb49-4dca-a13e-1429dfb65a5a.png">
+
+
 ### After Stimulation - Alphabet:
+<img width="637" alt="on alp" src="https://user-images.githubusercontent.com/93427089/201482278-f89187ea-902a-49fd-be65-74b193847454.png">
+
+
 ### Circuit Diagram:
+<img width="605" alt="bw" src="https://user-images.githubusercontent.com/93427089/201482284-45e8811a-770d-45a3-8a1f-2e4dcacea0ea.png">
+
 
 ### Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
